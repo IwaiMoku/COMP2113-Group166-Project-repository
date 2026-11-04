@@ -1,0 +1,10 @@
+1
+2
+look
+status
+map
+inv
+journal
+history
+help
+quit

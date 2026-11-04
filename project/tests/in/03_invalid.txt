@@ -1,0 +1,12 @@
+1
+2
+go sideways
+northwest
+take
+use medkit
+equip
+nonsense command here
+take nonexistent
+attack
+map
+quit

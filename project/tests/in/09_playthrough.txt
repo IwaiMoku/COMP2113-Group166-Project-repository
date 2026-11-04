@@ -1,0 +1,85 @@
+1
+2
+n
+attack
+attack
+attack
+attack
+attack
+attack
+attack
+attack
+attack
+attack
+w
+attack
+attack
+attack
+attack
+attack
+attack
+attack
+attack
+attack
+attack
+take all
+equip needler
+equip riot_plating
+e
+e
+take all
+w
+n
+attack
+attack
+attack
+attack
+attack
+attack
+attack
+attack
+n
+n
+attack
+attack
+attack
+attack
+attack
+attack
+attack
+attack
+take all
+power
+s
+s
+e
+attack
+attack
+attack
+attack
+attack
+attack
+attack
+attack
+attack
+attack
+take all
+equip nanoforge
+w
+s
+s
+attack
+attack
+attack
+use medkit
+attack
+attack
+use medkit
+attack
+attack
+attack
+attack
+attack
+status
+launch
+quit

@@ -1,0 +1,9 @@
+1
+2
+god
+xp 200
+give keycard
+tp 5
+look
+status
+quit

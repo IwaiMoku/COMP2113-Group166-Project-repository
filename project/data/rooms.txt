@@ -1,0 +1,12 @@
+# Nyx-9 deck plan
+# id|name|description|north|east|south|west|items|enemy|lock
+# exits and empty columns use '-'
+# items are comma separated ids; lock is an item id or a world flag
+0|Docking Bay|Your shuttle Kestrel waits in the launch cradle, hull ticking as it cools. Beyond the viewport the collapsar's accretion ring burns a dull orange. The airlock to the station interior gapes north.|1|-|-|-|-|-|-
+1|Main Corridor|Emergency strips pulse along the deck plating, half of them dead. A maintenance drone is still trying to weld a bulkhead that no longer exists.|3|2|0|4|-|maintenance_drone|-
+2|Medbay|Autoclave lights flicker over overturned gurneys. The cabinets hang open and the autodoc's cradle is empty, straps cut from the inside.|-|-|-|1|medkit,medkit,stim|-|-
+3|Hydroponics|Rows of engineered soy twist under violet lamps. Something has been feeding on them, and it has not finished.|5|7|1|-|scrap,scrap|spore_hound|-
+4|Armoury|Racks of spent casings and one sealed locker, already open. A security sentry still tracks movement along the rail.|-|1|-|-|plasma_cutter,needler,riot_plating,keycard|sentry_drone|-
+5|Reactor Access|A bulkhead stamped SECURITY CLEARANCE REQUIRED. Heat rolls off the deck plates in visible waves.|6|-|3|-|-|-|keycard
+6|Reactor Core|The fusion torus hangs silent in its cradle, cold and open. A maintenance console blinks amber, waiting for a cell.|-|-|5|-|fusion_cell|overload_wraith|-
+7|Server Vault|The AI's core housing. Cables hang like roots from the ceiling. Something vast unfolds in the dark between them.|-|-|-|3|nanoforge,shard|warden_prime|power_restored

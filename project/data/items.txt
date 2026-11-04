@@ -1,0 +1,14 @@
+# Nyx-9 item table
+# id|name|type|power|price|description
+# type is one of: weapon, armor, consumable, key, artifact, misc
+medkit|Medkit|consumable|25|30|A pressurised dermal patch. Restores 25 HP.
+stim|Combat Stim|consumable|12|45|A sharp chemical jolt. Restores 12 HP and steadies the hands.
+wrench|Salvage Wrench|weapon|3|20|A heavy maintenance tool. Better than bare fists.
+plasma_cutter|Plasma Cutter|weapon|7|120|Cuts bulkheads, and drones, with equal ease.
+needler|Needle Rifle|weapon|10|260|Fires monomolecular flechettes salvaged from a security locker.
+riot_plating|Riot Plating|armor|4|140|Layered ceramic plates stripped from a station guard.
+nanoforge|Nanoforge Weave|armor|6|300|A self-repairing lattice that drinks ambient heat.
+keycard|Security Keycard|key|0|0|Level-3 clearance. Opens the reactor bulkhead.
+fusion_cell|Fusion Cell|misc|0|0|A charged cell for the reactor console.
+shard|Kepler Shard|artifact|0|0|The station AI's core fragment. It hums against your palm.
+scrap|Scrap Alloy|misc|0|8|A fist-sized lump of hull alloy. Worth a few credits to the right buyer.

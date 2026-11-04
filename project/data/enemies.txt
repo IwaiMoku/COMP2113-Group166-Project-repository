@@ -1,0 +1,11 @@
+# Nyx-9 hostile table
+# id|name|kind|hp|attack|defense|xp|credits|special%
+# kind is one of: drone, sentry, hound, wraith, warden, overseer
+# Each kind has its own attack routine (see entity.cpp).
+# Balance target (Operative): a careful player finishes around level 4.
+maintenance_drone|Maintenance Drone|drone|18|5|1|15|10|25
+sentry_drone|Sentry Drone|sentry|26|6|3|25|20|30
+spore_hound|Spore Hound|hound|24|6|2|20|15|35
+overload_wraith|Overload Wraith|wraith|34|9|3|35|30|40
+warden_prime|Warden Prime|warden|60|10|4|70|80|45
+nyx_warden|Nyx Warden|overseer|90|12|5|120|150|50

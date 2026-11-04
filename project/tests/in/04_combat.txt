@@ -1,0 +1,17 @@
+1
+2
+n
+attack
+attack
+attack
+attack
+attack
+attack
+attack
+attack
+attack
+attack
+attack
+attack
+status
+quit
